@@ -16,7 +16,7 @@
      font-weight: 800;
      border-color: black;
      top: -780px;
-     left: 380px;
+     left: 400px;
   } 
 
   span{
@@ -24,7 +24,7 @@
     font-size: 30px;
     font-weight: 800;
     top: -720px;
-    left: 230px;
+    left: 250px;
   }
 
   .sghn{
@@ -37,6 +37,7 @@
     position: relative;
     top: 1px;
     width: 1000px;
+    height: 1500px;
   }
 
 
